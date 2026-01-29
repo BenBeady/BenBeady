@@ -1,7 +1,7 @@
 # Hi there, I'm Ben 👋  
 
 🎓 Aspiring Data Analyst & Developer | 🎯 Graduating December 2025  
-💻 Developer Intern @ GetUWired | 📊 Passionate about data + automation  
+💻 Software Developer Intern @ GetUWired | 📊 Passionate about data + automation  
 
 ---
 
