@@ -1,24 +1,24 @@
-# Hi there, I'm Ben 👋  
+# Hi there, I'm Ben   
 
-🎓 Aspiring Data Analyst & Developer | 🎯 Graduating December 2025  
-💻 Software Developer Intern @ GetUWired | 📊 Passionate about data + automation  
-
----
-
-## 🚀 About Me  
-- 📍 Based in Georgia/Kentucky  
-- 🛠 Skilled in R, Python, JavaScript, SQL, Zapier, APIs  
-- 📈 Love turning raw data into insights & building automations that save time  
+Aspiring Developer | Graduating December 2025  
+Passionate about data 
 
 ---
 
-## 🔹 Featured Projects  
+##  About Me  
+-  Based in Georgia/Kentucky  
+-  Skilled in R, Python, JavaScript, SQL 
+- Love turning raw data into insights & building automations that save time  
+
+---
+
+##  Featured Projects  
 Here are some of the projects I’m most proud of:  
 
 
 ---
 
-## 🛠 Tech Stack  
+##  Tech Stack  
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -28,11 +28,11 @@ Here are some of the projects I’m most proud of:
 
 ---
 
-## 📫 Connect With Me  
+##  Connect With Me  
 - [LinkedIn](https://linkedin.com/in/benjamenbeady)  
 - [GitHub](https://github.com/BenBeady)  
-- 📧 Email: benbeady2@gmail.com  
+- Email: benbeady2@gmail.com  
 
 ---
 
-✨ Thanks for stopping by my profile!
+ Thanks for stopping by my profile!
