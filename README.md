@@ -1,6 +1,6 @@
 # Hi there, I'm Ben   
 
-Aspiring Developer | Graduating December 2025  
+Graduating December 2025  
 Passionate about data 
 
 ---
